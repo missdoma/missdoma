@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @missdoma
 - 👀 I’m interested in 
 - 🌱 I’m currently learning UX/UI Design
-- 💞️ I’m looking to collaborate on front end designers
+- 💞️ I’m looking to collaborate with front end designers
 - 📫 How to reach me ...
 
 <!---
